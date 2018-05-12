@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1744
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31901#Tom-Burke-Of--Ours--Volume-I
 gutenberg_issued: '2010-04-06'
 gutenberg_type: Text
 identifiers:
